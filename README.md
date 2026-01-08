@@ -39,5 +39,5 @@ The dashboard supports **population health analysis** by examining temporal tren
 ## About Me
 Physician with a strong foundation in Healthcare Data Analytics, combining clinical expertise with structured data analysis, data quality validation, and analytical reasoning.
 
-- ### Skills: SQL • Tableau • Power BI • Excel
-- ### Focus Areas: Population health trends • Healthcare utilization & outcomes • Data quality and validation in clinical datasets
+- Skills: SQL • Tableau • Power BI • Excel
+- Focus Areas: Population health trends • Healthcare utilization & outcomes • Data quality and validation in clinical datasets
