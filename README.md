@@ -1,4 +1,4 @@
-# US Adult Obesity Analysis — Overview & Socioeconomic Disparities (Last 5 Years)
+# US Adult Obesity Trends — Overview & Socioeconomic Disparities (Last 5 Years)
 
 ## Project Summary
 This project analyzes adult obesity trends in the United States using publicly available CDC BRFSS data.  
@@ -17,7 +17,7 @@ The dashboard supports **population health analysis** by examining temporal tren
 ---
 
 ## Tools Used
-- Tableau (dashboard design and visualization)
+- Tableau Desktop / Tableau Public (dashboard design and visualization)
 - In-tool aggregation and validation
 
 ---
