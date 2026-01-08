@@ -37,7 +37,7 @@ The dashboard supports **population health analysis** by examining temporal tren
 ---
 
 ## About Me
-Physician (MBBS, DNB Pediatrics) transitioning into **Healthcare Data Analytics**, with a focus on population health, utilization analysis, and healthcare data visualization.
+Physician with a strong foundation in Healthcare Data Analytics, combining clinical expertise with structured data analysis, data quality validation, and analytical reasoning.
 
-**Skills:** SQL • Tableau • Power BI  
-**Training:** Healthcare data analysis, public health datasets, HIPAA-compliant data use
+- ### Skills: SQL • Tableau • Power BI • Excel
+- ### Focus Areas: Population health trends • Healthcare utilization & outcomes • Data quality and validation in clinical datasets
